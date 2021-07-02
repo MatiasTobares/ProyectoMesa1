@@ -1,0 +1,10 @@
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\obj\Debug\Proyectoooo.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\obj\Debug\Proyectoooo.Form1.resources
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\obj\Debug\Proyectoooo.Properties.Resources.resources
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\obj\Debug\Proyectoooo.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\obj\Debug\Proyectoooo.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\bin\Debug\Proyectoooo.exe.config
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\bin\Debug\Proyectoooo.exe
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\bin\Debug\Proyectoooo.pdb
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\obj\Debug\Proyectoooo.exe
+C:\Users\Roberto\source\repos\Proyectoooo\Proyectoooo\obj\Debug\Proyectoooo.pdb
